@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.vue": "vue",
+    "main.C": "cpp",
+    "hello.C": "cpp",
+    "index.C": "cpp"
+  }
+}
